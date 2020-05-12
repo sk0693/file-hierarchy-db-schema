@@ -40,7 +40,7 @@ and so on...
 `nodes-library` collection stores all documents about the `files` and the `folders`.
 ```
 
-This collection will hold the both type of nodes either file or folder. You may maintain this structure using diffrent collections file and folder structure respectively.
+This collection will hold both types of `nodes` either `file` or `folder`. You may maintain this structure using different collections files and folder structure respectively.
 
 Although the documents of this collection will seprated by a key called `type`.
 
