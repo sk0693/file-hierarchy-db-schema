@@ -1,0 +1,15 @@
+{
+  "name": "file-hierarchy-db-schema",
+  "version": "1.0.0",
+  "description": "For handling the problem for chil parent relationship in MongoDB",
+  "keywords": [
+    "File",
+    "File hirarchy",
+    "File hierarchy schema",
+    "Child-parent",
+    "db schema",
+    "mongodb",
+    "schema architecture"
+  ],
+  "author": "Sourabh Khurana (sourabhkhurana0693@gmail.com)"
+}
