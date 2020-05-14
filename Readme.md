@@ -1,6 +1,6 @@
 # Introduction
 
-This repository is for creating the DB schema for handling the holders and files hierarchy approach and applying the CRUD operations smoothly. I have used MongoDB database for this, in which have I made parallel data document structure.
+This repository is for creating the DB schema for handling the Folders and Files hierarchy approach and applying the CRUD operations smoothly. I have used MongoDB database for this, in which have I made parallel data document structure.
 
 # Requirements
 
